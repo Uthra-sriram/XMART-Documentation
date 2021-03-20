@@ -20,7 +20,7 @@ Following table lists the supported XMART locales:
 
 ## Related Links
 
-- [Time and distance](time_distance.md)
-- [Planets and stars](planet_stars.md)
+- [About XMART User's Guide](about_xmart_ug.md)
+- [Terms and Definitions](terms_and_definitions.md)
 
 

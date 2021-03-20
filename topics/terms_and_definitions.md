@@ -18,7 +18,7 @@ system.
 
 ## Related Links
 
-- [Time and distance](time_distance.md)
-- [Planets and stars](planet_stars.md)
+- [About XMART User's Guide](about_xmart_ug.md)
+- [XMART Locale Listings](xmart_locale_listings.md)
 
 

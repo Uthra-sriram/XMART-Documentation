@@ -17,7 +17,7 @@ within this document.
 
 ## Related Links
 
-- [Time and distance](time_distance.md)
-- [Planets and stars](planet_stars.md)
+- [Terms and Definitions](terms_and_definitions.md)
+- [XMART Locale Listings](xmart_locale_listings.md)
 
 
