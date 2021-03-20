@@ -1,0 +1,10 @@
+-  term: XMetaL Author
+   description: The application installed on your Windows based laptop which allows you the ability to author XML content.
+-  term: Conrefs / Xrefs
+   description: Ability to reuse existing content by referencing local content in a document is a conref. Referencing an external location is an xref.
+-  term: DITA
+   description: Darwin Information Typing Architecture. It is an XML based architecture for authoring, producing, and delivering information.
+-  term: Topics, Maps and Bookmaps
+   description: Various XML file types used when authoring a document in the XMART system. Topics loosely refer to pages, maps to book chapters, and bookmaps to entire documents.
+-  term: Virtual Document
+   description: A virtual document refersto the final view of a publication which pullsin the pieces from various sources.
