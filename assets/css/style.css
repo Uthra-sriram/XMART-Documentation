@@ -5,7 +5,7 @@ h1 {
   } 
 
 h2 {
-  color: lightblue;
+  color: maroon;
   font-family: verdana;
   font-size: 20px;
   }
@@ -17,7 +17,11 @@ hr {
 } 
 
 header {
-  font-family: Papyrus, Lucida Handwriting, cursive, Trebuchet MS;
+  background-color: powderblue;
+  border: 2px blue;
+  padding: 30px;
+  margin: 50px;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
 }
 
