@@ -13,7 +13,7 @@ Following table lists the supported XMART locales:
 <th>XMART Language</th><th>XMART Locale</th><th>Locale Attribute</th>
 </tr>
 {% for item in site.data.locales %}
-<tr><td>{{ item.Language }}</td><td>{{ item.Locale }}</td><td>{{ item.Attribute }}</td></tr>
+<tr class="w3-hover-green"><td>{{ item.Language }}</td><td>{{ item.Locale }}</td><td>{{ item.Attribute }}</td></tr>
 {% endfor %}
 </table>
 
