@@ -1,5 +1,6 @@
 h1 {
-  color: blue;
+  background-color: #b3713c;
+  color: #f1f1f1;
   font-family: verdana;
   font-size: 24px;
   } 
@@ -32,8 +33,9 @@ blockquote {
   margin-bottom: 10px;
   margin-left: 40px;
   margin-right: 40px;
-  background-color: #f1f1f1;
-  font-family: monospace;
+  background-color: #b3713c;
+  color: #f1f1f1;
+  font-family: verdana;
   font-size: 12px;
   line-height: 190%;
 }
