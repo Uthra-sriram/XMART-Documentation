@@ -40,37 +40,18 @@ blockquote {
   line-height: 190%;
 }
 
-code {
-  font-family: monospace;
-  color: crimson;
-  background-color: #f1f1f1;
-  padding: 2px;
-  font-size: 105%;
-}
-
-pre {
-  display: block;
-  font-family: monospace;
-  white-space: pre;
-  color: crimson;
-  background-color: #f1f1f1;
-  padding: 2px;
-  font-size: 105%;
-} 
-
 table {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: #f1f1f1;
   padding: 2px;
-  font-family: monospace;
+  font-family: verdana;
 }
 th {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: #f1f1f1;
+  background-color: #c17e47;
   padding: 2px;
-  color: crimson;
+  color: #f1f1f1;
 }
 td {
   border: 1px solid black;
