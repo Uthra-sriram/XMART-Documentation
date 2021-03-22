@@ -1,11 +1,12 @@
 ---
 layout: template_generalFiles
 title: Terms and Definitions
+productnameshort: XMART
 ---
 
 # {{page.title}}
 
-There are many terms used when beginning to author XML content in the XMART system. This list is not meant to be exhaustive but rather a helpful start to your knowledge of authoring XML content in the XMART
+There are many terms used when beginning to author XML content in the {{page.productnameshort}} system. This list is not meant to be exhaustive but rather a helpful start to your knowledge of authoring XML content in the XMART
 system.
 
 
