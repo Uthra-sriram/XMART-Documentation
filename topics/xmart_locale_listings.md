@@ -1,6 +1,7 @@
 ---
 layout: template_generalFiles
 title: XMART Locale Listings
+productnameshort: XMART
 ---
 
 # {{page.title}}
@@ -8,14 +9,13 @@ title: XMART Locale Listings
 Following table lists the supported XMART locales:
 
 
-<table>
-<tr>
-<th>XMART Language</th><th>XMART Locale</th><th>Locale Attribute</th>
-</tr>
-{% for item in site.data.locales %}
-<tr><td>{{ item.Language }}</td><td>{{ item.Locale }}</td><td>{{ item.Attribute }}</td></tr>
-{% endfor %}
-</table>
+| {{page.productnameshort}} Language | {{page.productnameshort}} Locale | {{page.productnameshort}} Attribute |
+------------------------------------  ----------------------------------  ------------------------------------
+| Arabic | Saudi Arabia | ar_SA |
+| Bulgarian | Bulgaria | bg_BG |
+| Catalan | Catalan | ca_ES |
+| Chinese | China | zh_CN |
+| English | United States | en_US |  
 
 
 ## Related Links
