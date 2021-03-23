@@ -10,7 +10,7 @@ Following table lists the supported XMART locales:
 
 
 | {{page.productnameshort}} Language | {{page.productnameshort}} Locale | {{page.productnameshort}} Attribute |
-------------------------------------  ----------------------------------  ------------------------------------
+| ----------------------------------- | -------------------------------- | --------------------------------- |
 | Arabic | Saudi Arabia | ar_SA |
 | Bulgarian | Bulgaria | bg_BG |
 | Catalan | Catalan | ca_ES |
